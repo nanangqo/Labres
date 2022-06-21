@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Laboratorium Resolusi</name>
+   <tag></tag>
+   <elementGuidId>b093bf46-4c30-4430-bd51-3ba65ce9dcc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-tooltip-trigger.item-label.ng-tns-c167-18</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu492']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>29e574da-7c38-4fbb-9793-8ad334f247c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxflex</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>619cb750-b3e4-4898-932b-f6c4f33e9fcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-tooltip-trigger item-label ng-tns-c167-18</value>
+      <webElementGuid>1e3ab6bb-b04b-4117-ae94-6af7e9e98036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-fx-flex</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>43e98203-642f-4c08-9bce-46d03a7f5e70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-message</name>
+      <type>Main</type>
+      <value>Laboratorium Resolusi</value>
+      <webElementGuid>85b7843d-f27f-45aa-9a53-65be49452f6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-707</value>
+      <webElementGuid>5c301468-2d08-45c7-97c7-d5e6dcce4afd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Laboratorium Resolusi</value>
+      <webElementGuid>7363eda5-26cd-429b-bb77-0f57c7c944d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu492&quot;)/span[@class=&quot;mat-tooltip-trigger item-label ng-tns-c167-18&quot;]</value>
+      <webElementGuid>6a5c5f19-c8d0-4210-b123-e243e26444ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu492']/span</value>
+      <webElementGuid>0f51663a-1b2f-4198-8029-68e3a22a138d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Publikasi'])[1]/following::span[1]</value>
+      <webElementGuid>17e32fec-6c73-47f4-9bdb-7815b882e085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Publikasi'])[1]/following::span[2]</value>
+      <webElementGuid>93cc10be-2ec0-47cb-8071-61df5d62d365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waktu Resolusi'])[1]/preceding::span[1]</value>
+      <webElementGuid>3d82de20-8717-43db-9b5d-ccb534492866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proteksi data'])[1]/preceding::span[2]</value>
+      <webElementGuid>fe3a7d0a-5cb4-4ac9-bcca-79b63c202843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Laboratorium Resolusi']/parent::*</value>
+      <webElementGuid>45d46dff-ee8e-4479-bbc0-7de7c2f32539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//vex-sidenav-item[9]/div/span</value>
+      <webElementGuid>3670c680-fba2-4643-acf8-0b88ebe15903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Laboratorium Resolusi' or . = 'Laboratorium Resolusi')]</value>
+      <webElementGuid>4ca7c1a6-8442-4c9d-a1a3-1ecc041e17a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

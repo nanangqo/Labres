@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Drag and drop files or click here</name>
+   <tag></tag>
+   <elementGuidId>30d33a06-2ab8-47ca-951a-3f65cdbd48a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/vex-root/vex-custom-layout/vex-layout/div[2]/mat-sidenav-container/mat-sidenav-content/main/vex-add-edit-data-injection/vex-page-layout/vex-page-layout-content/div/div/div/form/div/div/div[2]/file-upload</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.upload-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3f909aa2-a9a7-480d-8558-3d667884d383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>upload-text</value>
+      <webElementGuid>cb841b36-5f0d-4e71-9cde-3234db7913ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drag and drop files or click here </value>
+      <webElementGuid>75b690de-6082-402b-bec6-aa7bcf4ae8bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;vex-style-default ng-tns-0-0 is-blink vex-layout-ares&quot;]/vex-root[1]/vex-custom-layout[@class=&quot;ng-star-inserted&quot;]/vex-layout[1]/div[@class=&quot;page-container horizontal-layout has-fixed-footer has-footer toolbar-fixed&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content sidenav-content&quot;]/main[@class=&quot;content&quot;]/vex-add-edit-data-injection[@class=&quot;ng-star-inserted&quot;]/vex-page-layout[@class=&quot;vex-page-layout vex-page-layout-simple&quot;]/vex-page-layout-content[@class=&quot;vex-page-layout-content&quot;]/div[@class=&quot;card&quot;]/div[1]/div[1]/form[@class=&quot;ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;px-6 py-6&quot;]/div[1]/div[@class=&quot;file-upload mb-6 sm:px-0 md:px-4 lg:px-4 xl:px-4 ng-star-inserted&quot;]/file-upload[@class=&quot;ng-tns-c418-783 ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/label[@class=&quot;upload-input ng-tns-c418-783 ng-trigger ng-trigger-zoomAnimation&quot;]/file-upload-drop-zone[@class=&quot;ng-tns-c418-783 ng-star-inserted&quot;]/div[@class=&quot;upload-text&quot;]</value>
+      <webElementGuid>326dc509-ae50-44a7-925c-437ef4adc3b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Template'])[1]/following::div[2]</value>
+      <webElementGuid>e642a5f6-7d5a-438c-b8bc-714c7a1f2f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='files']/parent::*</value>
+      <webElementGuid>08c0cb47-ddf8-452e-99dc-80e6f0bfb491</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//file-upload-drop-zone/div[2]</value>
+      <webElementGuid>f6468ff8-8db6-41d2-9403-c4a4e40de2b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Drag and drop files or click here ' or . = 'Drag and drop files or click here ')]</value>
+      <webElementGuid>9639c4eb-e0e6-41a2-9cd0-d9f71217a7b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Data Injection</name>
+   <tag></tag>
+   <elementGuidId>5d6de034-d100-4d3f-9419-5d6cfb3700a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-tooltip-trigger.item-label.ng-tns-c167-695</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu623']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0883bc6c-e60e-4bf6-b418-fb66eb91b3f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxflex</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>6a07268d-8578-4bdc-b0d5-35b637266c32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-tooltip-trigger item-label ng-tns-c167-695</value>
+      <webElementGuid>1ea1fbe5-d2bc-444c-afd5-580f3be75ff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-fx-flex</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>b5c1032f-566c-40ba-8b15-f3d64dfb5855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-message</name>
+      <type>Main</type>
+      <value>Data Injection</value>
+      <webElementGuid>f7d0950a-9cca-4c5b-a637-ab5e1f4331d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-684</value>
+      <webElementGuid>49d36263-f010-4ada-bc94-a89a935b3f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Injection</value>
+      <webElementGuid>94bf56a4-52c9-46c4-a356-8b03fd58c96c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu623&quot;)/span[@class=&quot;mat-tooltip-trigger item-label ng-tns-c167-695&quot;]</value>
+      <webElementGuid>a96b308e-0b3a-40b7-96e4-cb587919ae00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='menu623']/span</value>
+      <webElementGuid>d1f18c66-8b0d-48e6-a649-288be5fae475</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Clone'])[1]/following::span[1]</value>
+      <webElementGuid>b95da9e1-1a0f-4822-a770-1f234cc671b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training Progress'])[1]/following::span[2]</value>
+      <webElementGuid>ae0ca5ed-94ac-4a38-867f-fd5ce0ac2a56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Cleanup'])[1]/preceding::span[1]</value>
+      <webElementGuid>5b3019cd-9a30-411c-aa6c-911422678572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu Lainnya'])[1]/preceding::span[2]</value>
+      <webElementGuid>e7ee6400-d946-4b3a-8b91-7eb7e74317e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Data Injection']/parent::*</value>
+      <webElementGuid>7bc1fcb5-e9bc-476e-9746-d1a73d521d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//vex-sidenav-item[9]/div[2]/vex-sidenav-item[5]/a/span</value>
+      <webElementGuid>37b38cde-528a-4704-8a25-b3ed1327b2e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Data Injection' or . = 'Data Injection')]</value>
+      <webElementGuid>f840e240-982a-4620-aa84-6057db9878a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

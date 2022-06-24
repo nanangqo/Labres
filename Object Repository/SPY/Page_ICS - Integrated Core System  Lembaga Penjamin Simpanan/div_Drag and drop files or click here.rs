@@ -3,34 +3,34 @@
    <description></description>
    <name>div_Drag and drop files or click here</name>
    <tag></tag>
-   <elementGuidId>30d33a06-2ab8-47ca-951a-3f65cdbd48a3</elementGuidId>
+   <elementGuidId>89ea6639-f737-46b6-ab09-4c6d0d71f2eb</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Template'])[1]/following::div[2]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>div.upload-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Template'])[1]/following::div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d3543d60-60fd-413f-9cc4-2ce02ffe5843</webElementGuid>
+      <webElementGuid>b484a6d3-1563-456e-9eab-d0e8e4e4806c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>upload-text</value>
-      <webElementGuid>b7b7bd53-fcbb-4752-ab53-06da33217699</webElementGuid>
+      <webElementGuid>03942687-fbbd-491b-983f-2f10e88227b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +38,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Drag and drop files or click here </value>
-      <webElementGuid>a47b14cc-c38f-4433-af64-b975f128e5bb</webElementGuid>
+      <webElementGuid>ed97b5a1-d72a-4053-9046-e335b56df8ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;vex-style-default ng-tns-0-0 is-blink vex-layout-ares&quot;]/vex-root[1]/vex-custom-layout[@class=&quot;ng-star-inserted&quot;]/vex-layout[1]/div[@class=&quot;page-container horizontal-layout has-fixed-footer has-footer toolbar-fixed&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content sidenav-content&quot;]/main[@class=&quot;content&quot;]/vex-add-edit-data-injection[@class=&quot;ng-star-inserted&quot;]/vex-page-layout[@class=&quot;vex-page-layout vex-page-layout-simple&quot;]/vex-page-layout-content[@class=&quot;vex-page-layout-content&quot;]/div[@class=&quot;card&quot;]/div[1]/div[1]/form[@class=&quot;ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;px-6 py-6&quot;]/div[1]/div[@class=&quot;file-upload mb-6 sm:px-0 md:px-4 lg:px-4 xl:px-4 ng-star-inserted&quot;]/file-upload[@class=&quot;ng-tns-c418-783 ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/label[@class=&quot;upload-input ng-tns-c418-783 ng-trigger ng-trigger-zoomAnimation&quot;]/file-upload-drop-zone[@class=&quot;ng-tns-c418-783 ng-star-inserted&quot;]/div[@class=&quot;upload-text&quot;]</value>
-      <webElementGuid>3dde1141-e493-4adb-a1e6-adb47df6b000</webElementGuid>
+      <value>/html[1]/body[@class=&quot;vex-style-default ng-tns-0-0 is-blink vex-layout-ares&quot;]/vex-root[1]/vex-custom-layout[@class=&quot;ng-star-inserted&quot;]/vex-layout[1]/div[@class=&quot;page-container horizontal-layout is-mobile has-fixed-footer has-footer toolbar-fixed&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content sidenav-content&quot;]/main[@class=&quot;content&quot;]/vex-add-edit-data-injection[@class=&quot;ng-star-inserted&quot;]/vex-page-layout[@class=&quot;vex-page-layout vex-page-layout-simple&quot;]/vex-page-layout-content[@class=&quot;vex-page-layout-content&quot;]/div[@class=&quot;card&quot;]/div[1]/div[1]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;px-6 py-6&quot;]/div[1]/div[@class=&quot;file-upload mb-6 sm:px-0 md:px-4 lg:px-4 xl:px-4 ng-star-inserted&quot;]/file-upload[@class=&quot;ng-tns-c418-752 ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/label[@class=&quot;upload-input ng-tns-c418-752 ng-trigger ng-trigger-zoomAnimation&quot;]/file-upload-drop-zone[@class=&quot;ng-tns-c418-752 ng-star-inserted&quot;]/div[@class=&quot;upload-text&quot;]</value>
+      <webElementGuid>b3f54c3f-759b-4347-beec-4e004d897eaf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Template'])[1]/following::div[2]</value>
-      <webElementGuid>403cbbda-5ab6-4fe0-9e2c-8e31cc95d3b4</webElementGuid>
+      <webElementGuid>1a3acec4-b5fc-4c40-9434-f1df32ff9e8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='files']/parent::*</value>
-      <webElementGuid>ae74081f-a4bd-4383-8970-153da819beef</webElementGuid>
+      <webElementGuid>8e72df51-9fa5-41cf-af5f-fd1f06185bad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//file-upload-drop-zone/div[2]</value>
-      <webElementGuid>c84c56ad-15af-4f71-9d23-deb54a7b6d69</webElementGuid>
+      <webElementGuid>2c18d253-644d-41b7-94a7-58bbe6c0a51c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Drag and drop files or click here ' or . = 'Drag and drop files or click here ')]</value>
-      <webElementGuid>8af9e521-0b16-4061-8aad-b0486e4537f6</webElementGuid>
+      <webElementGuid>88bc5621-ac92-475c-ba1a-6e39470b5415</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

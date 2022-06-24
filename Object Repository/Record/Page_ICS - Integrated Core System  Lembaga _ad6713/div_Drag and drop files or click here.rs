@@ -3,15 +3,15 @@
    <description></description>
    <name>div_Drag and drop files or click here</name>
    <tag></tag>
-   <elementGuidId>30d33a06-2ab8-47ca-951a-3f65cdbd48a3</elementGuidId>
+   <elementGuidId>f1d9a143-6797-4d15-9973-72093f47fabc</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Template'])[1]/following::div[2]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>div.upload-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Template'])[1]/following::div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d3543d60-60fd-413f-9cc4-2ce02ffe5843</webElementGuid>
+      <webElementGuid>9f989f58-0317-462b-a98e-df1baa8d74d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>upload-text</value>
-      <webElementGuid>b7b7bd53-fcbb-4752-ab53-06da33217699</webElementGuid>
+      <webElementGuid>8056de31-5413-4935-b345-9cb41450ae0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +38,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Drag and drop files or click here </value>
-      <webElementGuid>a47b14cc-c38f-4433-af64-b975f128e5bb</webElementGuid>
+      <webElementGuid>e0c68bdc-f245-4cae-bde7-0cea52c159ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;vex-style-default ng-tns-0-0 is-blink vex-layout-ares&quot;]/vex-root[1]/vex-custom-layout[@class=&quot;ng-star-inserted&quot;]/vex-layout[1]/div[@class=&quot;page-container horizontal-layout has-fixed-footer has-footer toolbar-fixed&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content sidenav-content&quot;]/main[@class=&quot;content&quot;]/vex-add-edit-data-injection[@class=&quot;ng-star-inserted&quot;]/vex-page-layout[@class=&quot;vex-page-layout vex-page-layout-simple&quot;]/vex-page-layout-content[@class=&quot;vex-page-layout-content&quot;]/div[@class=&quot;card&quot;]/div[1]/div[1]/form[@class=&quot;ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;px-6 py-6&quot;]/div[1]/div[@class=&quot;file-upload mb-6 sm:px-0 md:px-4 lg:px-4 xl:px-4 ng-star-inserted&quot;]/file-upload[@class=&quot;ng-tns-c418-783 ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/label[@class=&quot;upload-input ng-tns-c418-783 ng-trigger ng-trigger-zoomAnimation&quot;]/file-upload-drop-zone[@class=&quot;ng-tns-c418-783 ng-star-inserted&quot;]/div[@class=&quot;upload-text&quot;]</value>
-      <webElementGuid>3dde1141-e493-4adb-a1e6-adb47df6b000</webElementGuid>
+      <value>/html[1]/body[@class=&quot;vex-style-default ng-tns-0-0 is-blink vex-layout-ares&quot;]/vex-root[1]/vex-custom-layout[@class=&quot;ng-star-inserted&quot;]/vex-layout[1]/div[@class=&quot;page-container horizontal-layout is-mobile has-fixed-footer has-footer toolbar-fixed&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content sidenav-content&quot;]/main[@class=&quot;content&quot;]/vex-add-edit-data-injection[@class=&quot;ng-star-inserted&quot;]/vex-page-layout[@class=&quot;vex-page-layout vex-page-layout-simple&quot;]/vex-page-layout-content[@class=&quot;vex-page-layout-content&quot;]/div[@class=&quot;card&quot;]/div[1]/div[1]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;px-6 py-6&quot;]/div[1]/div[@class=&quot;file-upload mb-6 sm:px-0 md:px-4 lg:px-4 xl:px-4 ng-star-inserted&quot;]/file-upload[@class=&quot;ng-tns-c418-751 ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/label[@class=&quot;upload-input ng-tns-c418-751 ng-trigger ng-trigger-zoomAnimation&quot;]/file-upload-drop-zone[@class=&quot;ng-tns-c418-751 ng-star-inserted&quot;]/div[@class=&quot;upload-text&quot;]</value>
+      <webElementGuid>4f6b23c7-7df1-4930-83e2-5b1165f1fde2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Template'])[1]/following::div[2]</value>
-      <webElementGuid>403cbbda-5ab6-4fe0-9e2c-8e31cc95d3b4</webElementGuid>
+      <webElementGuid>a75f6a28-3579-450e-911b-8d9d25fe02cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='files']/parent::*</value>
-      <webElementGuid>ae74081f-a4bd-4383-8970-153da819beef</webElementGuid>
+      <webElementGuid>da108c97-43fb-49cf-a7b2-23a5a46e6de9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//file-upload-drop-zone/div[2]</value>
-      <webElementGuid>c84c56ad-15af-4f71-9d23-deb54a7b6d69</webElementGuid>
+      <webElementGuid>d147f496-fb51-4614-b6cc-af82891f87ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Drag and drop files or click here ' or . = 'Drag and drop files or click here ')]</value>
-      <webElementGuid>8af9e521-0b16-4061-8aad-b0486e4537f6</webElementGuid>
+      <webElementGuid>b5fd77f9-6470-4aea-a15a-9cbea27e73df</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -52,10 +52,7 @@ WebUI.click(findTestObject('Object Repository/Data Inject/Data Neraca/Page_ICS -
 WebUI.click(findTestObject('Object Repository/Data Inject/Data Neraca/Page_ICS - Integrated Core System  Lembaga _ad6713/div_2021'))
 
 WebUI.click(findTestObject('Object Repository/Data Inject/Data Neraca/Page_ICS - Integrated Core System  Lembaga _ad6713/div_DES'))
-/*
-WebUI.uploadFile(findTestObject('Data Inject/Data Neraca/Page_ICS - Integrated Core System  Lembaga _ad6713/div_Drag and drop files or click here'), 
-    'D:\\LPS\\Labres\\Inject\\NERACAKAS.XLSX', FailureHandling.STOP_ON_FAILURE)
-*/
-WebUI.sendKeys(findTestObject('Object Repository/Page_Online Services/UploadSectionArea'),
-	'D:\\LPS\\Labres\\Inject\\NERACAKAS.XLSX')
+
+CustomKeywords.'testpackage.ABC.uploadFile'(findTestObject('SPY/Page_ICS - Integrated Core System  Lembaga Penjamin Simpanan/file-upload_Drag and drop files or click here'), 
+    'D:\\LPS\\Labres\\Inject BUS 10100002 009 BNII Test\\NERACAKAS.XLSX')
 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>8f0473f2-ba35-40f7-aab8-04271ed787f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-icon-button.mat-button-base.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > mat-icon.mat-icon.notranslate.material-icons.mat-icon-no-color > svg > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>3d4862b0-c571-4a9a-ac36-04f39b3f65fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>b3b853b7-9309-4858-b5af-11056be4a6c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z</value>
+      <webElementGuid>3e16dcbb-59b0-4d48-90ae-6e87d51a7c4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;vex-style-default ng-tns-0-0 is-blink vex-layout-ares&quot;]/vex-root[1]/vex-custom-layout[@class=&quot;ng-star-inserted&quot;]/vex-layout[1]/div[@class=&quot;page-container horizontal-layout is-mobile has-fixed-footer has-footer toolbar-fixed&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content sidenav-content&quot;]/vex-toolbar[@class=&quot;vex-toolbar ng-star-inserted&quot;]/div[@class=&quot;toolbar w-full px-gutter&quot;]/button[@class=&quot;mat-focus-indicator mat-icon-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-no-color&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>8530ba8b-dc08-4042-b791-2292916bb31a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
